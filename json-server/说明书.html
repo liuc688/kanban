@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <script>
+    /*
+      json-server 的介绍与服务搭建
+      1.进入网址:https://github.com/typicode/json-server
+      2.找到 Getting started
+        a.npm install -g json-server
+        b.创建一个 db.json 文件，在里面写如下内容
+          {
+            //文章内容
+            "posts": [
+              { "id": 1, "title": "json-server", "author": "typicode" }
+            ],
+            //评论内容
+            "comments": [
+              { "id": 1, "body": "some comment", "postId": 1 }
+            ],
+            "profile": { "name": "typicode" }
+          }
+        c.启动 (必须进入 db.json 所在的文件夹中执行代码)  json-server --watch db.json
+        d.不用操作,完成 abc 步骤后,我们会发现,控制台会出现 3 个网址
+            http://localhost:3000/posts
+            http://localhost:3000/comments
+            http://localhost:3000/profile
+          我们之所以搭建 json-server 服务，就是为了后面的使用 axios 时候，使用到的网址，说白了，这里就是准备工作
+    */
+  </script>
+</body>
+
+</html>

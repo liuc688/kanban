@@ -1,0 +1,311 @@
+{
+  "todolist": [
+    {
+      "id": "gGuSHpn9CnS2fDe-4A_r3",
+      "title": "Learn redis and organize it",
+      "date_time": "2023-06-07 12:52",
+      "identifying": "1",
+      "usetime1": 0,
+      "usetime1_1": 0
+    },
+    {
+      "id": "pdo_gRjsms3OygXguy_3D",
+      "title": "learn UX/UI design and organize",
+      "date_time": "2023-06-07 12:52",
+      "identifying": "1",
+      "usetime1": 0,
+      "usetime1_1": 0
+    },
+    {
+      "id": "z_dlIOOyOWV-h9CJ15Z0B",
+      "title": "learn Flutter and organize",
+      "date_time": "2023-06-07 12:55",
+      "identifying": "1",
+      "usetime1": 0,
+      "usetime1_1": 0
+    },
+    {
+      "id": "FCfKFFfaQU8MmaRDGOln3",
+      "title": "learn vite and organize",
+      "date_time": "2023-06-07 12:55",
+      "identifying": "1",
+      "usetime1": 0,
+      "usetime1_1": 0
+    },
+    {
+      "id": "okHWTuvWFEutRxdI2drbm",
+      "title": "learn webGL and organize",
+      "date_time": "2023-06-07 12:55",
+      "identifying": "1",
+      "usetime1": 0,
+      "usetime1_1": 0
+    },
+    {
+      "id": "CIDblhH-kbt8B9jMaydZE",
+      "title": "WORD learning and summarizing",
+      "date_time": "2023-06-07 12:55",
+      "identifying": "1",
+      "usetime1": 0,
+      "usetime1_1": 0
+    },
+    {
+      "id": "VwbU2IMgcc8fmG5QwMwJZ",
+      "title": "learn Three.js and organize",
+      "date_time": "2023-06-07 12:55",
+      "identifying": "1",
+      "usetime1": 0,
+      "usetime1_1": 0
+    },
+    {
+      "id": "PFoevMFrW2Oq_pJ6AqRmg",
+      "title": "learn canvas",
+      "date_time": "2023-06-07 12:55",
+      "identifying": "1",
+      "usetime1": 0,
+      "usetime1_1": 0
+    },
+    {
+      "id": "Qg4OdM5qrdiBDr6evRCn3",
+      "title": "复习尚学堂的 java 代码，并整理一套代码",
+      "date_time": "2023-06-07 12:56",
+      "identifying": "1",
+      "usetime1": 0,
+      "usetime1_1": 0
+    },
+    {
+      "id": "tgXa6IDXCg-OSuvje05Q3",
+      "title": "学习尚硅谷“康师傅”的 Java 教程",
+      "date_time": "2023-06-07 12:56",
+      "identifying": "1",
+      "usetime1": 0,
+      "usetime1_1": 0
+    },
+    {
+      "id": "p4w65E90KBdMkiSG3Z0f8",
+      "title": "PPT 学习并归纳总结",
+      "date_time": "2023-06-07 12:56",
+      "identifying": "1",
+      "usetime1": 0,
+      "usetime1_1": 0
+    },
+    {
+      "id": "EJLjyS8xQw3wPBgRYMW4T",
+      "title": "使用 nodeJS+mysql 实现系统的开发“我的计时本”项目 目前不着急",
+      "date_time": "2023-06-07 15:41",
+      "identifying": "1",
+      "usetime1": 0,
+      "usetime1_1": 0
+    },
+    {
+      "id": "Z2YNScVEALydZIZD4Z1Y3",
+      "title": "复习数据可视化知识-代码还没有整理完，要求整理完，重点学习里面的 webSocket",
+      "date_time": "2023-06-07 15:41",
+      "identifying": "1",
+      "usetime1": 0,
+      "usetime1_1": 0
+    },
+    {
+      "id": "N4vbINRRutS2Q_YloaYSY",
+      "title": "study shangxuetang python course",
+      "date_time": "2023-06-07 15:41",
+      "identifying": "1",
+      "usetime1": 0,
+      "usetime1_1": 0
+    },
+    {
+      "id": "sGMUX5JS95o48vRLFolBp",
+      "title": "reorganize and create knowledge base management",
+      "date_time": "2023-06-07 15:41",
+      "identifying": "1",
+      "usetime1": 0,
+      "usetime1_1": 0
+    }
+  ],
+  "doinglist": [
+    {
+      "id": "O5jNHgqSW779ReWp14PDw",
+      "title": "review regular expressions",
+      "date_time": "2023-06-07 15:41",
+      "identifying": "2",
+      "usetime1": 0,
+      "usetime1_1": 0,
+      "finish_time": ""
+    },
+    {
+      "id": "ExsLpWeqdrp6xL66C880z",
+      "title": "Learn ngnix and organize it",
+      "date_time": "2023-06-07 15:41",
+      "identifying": "2",
+      "usetime1": 0,
+      "usetime1_1": 0,
+      "finish_time": ""
+    }
+  ],
+  "donelist": [
+    {
+      "id": "bItBP2Y1wKD24l_B0lgJT",
+      "title": "Review Vue_zhangtianyu_shangguigu",
+      "date_time": "2023-06-07 16:00",
+      "identifying": "3",
+      "usetime1": 2,
+      "usetime1_1": 2
+    },
+    {
+      "id": "cWel8rT2gRbZQ1BoG_1K7",
+      "title": "整理聊城大学的静态网站",
+      "date_time": "2023-07-23 17:30",
+      "identifying": "3",
+      "usetime1": 2,
+      "usetime1_1": 2
+    },
+    {
+      "id": "25wWpfE7KcDrUUaIkxlWO",
+      "title": "整理聊城大学的静态网站，首页 + 友情链接",
+      "date_time": "2023-07-23 23:06",
+      "identifying": "3",
+      "usetime1": 0,
+      "usetime1_1": 0
+    },
+    {
+      "id": "b5GqoDiY5K9wuB7R0p4op",
+      "title": "优化工单界面，并将工单管理和标签管理进行拆分",
+      "date_time": "2023-06-07 15:41",
+      "identifying": "3",
+      "usetime1": 0,
+      "usetime1_1": 0
+    },
+    {
+      "id": "GC4piw_8ZLRBSJIIWxKCD",
+      "title": "继续开发爱山东；对接口",
+      "date_time": "2023-06-07 15:41",
+      "identifying": "3",
+      "usetime1": 0,
+      "usetime1_1": 0
+    },
+    {
+      "id": "K1VHxY31NgOyxxsdU0kE_",
+      "title": "review AJAX knowledges",
+      "date_time": "2023-06-07 12:56",
+      "identifying": "3",
+      "usetime1": 0,
+      "usetime1_1": 0
+    },
+    {
+      "id": "d8Y3zhEiS82aArweMJDTi",
+      "title": "review mini program-heima knowledge",
+      "date_time": "2023-06-07 12:56",
+      "identifying": "3",
+      "usetime1": 0,
+      "usetime1_1": 0
+    },
+    {
+      "id": "bAJHCfjZeusD-TWMPYdmG",
+      "title": "复习尚硅谷“张天禹”讲解的 Vue 知识。",
+      "date_time": "2023-06-07 12:56",
+      "identifying": "3",
+      "usetime1": 0,
+      "usetime1_1": 0
+    },
+    {
+      "id": "kxAntIeqpOEY7U2o5cDUD",
+      "title": "学习尚硅谷“张天禹”讲解的 React 知识，并整理一套代码",
+      "date_time": "2023-06-07 12:56",
+      "identifying": "3",
+      "usetime1": 0,
+      "usetime1_1": 0,
+      "finish_time": "2023-09-16 23:09"
+    },
+    {
+      "id": "2BL-s8dAwvLzvevEcA6Ts",
+      "title": "learn the modularity of CommonJS",
+      "date_time": "2023-06-07 15:41",
+      "identifying": "3",
+      "usetime1": 0,
+      "usetime1_1": 0,
+      "finish_time": "2023-09-16 23:10"
+    },
+    {
+      "id": "YtH3jacbN5JUROAu-UgR8",
+      "title": "整理智慧消防中出现的地图页面，尤其是里面的信息窗口偏移的部分",
+      "date_time": "2023-08-07 11:25",
+      "identifying": "3",
+      "usetime1": 0,
+      "usetime1_1": 0,
+      "finish_time": "2023-09-16 23:12"
+    },
+    {
+      "id": "bffSp4WcG2KD5LuYiOY24",
+      "title": "整理一下本页面出现的漂亮的滚动条",
+      "keyword": "",
+      "date_time": "2023-08-07 13:42",
+      "identifying": "3",
+      "usetime1": 0,
+      "usetime1_1": 0,
+      "finish_time": "2023-09-16 23:13"
+    },
+    {
+      "id": "vL_ojk1kLyiplaFHcuvEp",
+      "title": "优化和前端专题对接的政务信箱...依申请公开等模块，直到上线",
+      "date_time": "2023-06-07 15:41",
+      "identifying": "3",
+      "usetime1": 0,
+      "usetime1_1": 0,
+      "finish_time": "2023-09-13 23:19"
+    },
+    {
+      "id": "TwvYgZqZc_MroVqLz6KCw",
+      "title": "learn and create vuepress",
+      "keyword": "已完成，创建的是 vitepress",
+      "date_time": "2023-06-07 12:52",
+      "identifying": "3",
+      "usetime1": 0,
+      "usetime1_1": 0,
+      "finish_time": "2023-10-22 21:39"
+    },
+    {
+      "id": "l0uNdRhwpoQEv2zJDPG9V",
+      "title": "学习 iframe 框架，并整理代码",
+      "date_time": "2023-06-07 12:56",
+      "identifying": "3",
+      "usetime1": 0,
+      "usetime1_1": 0,
+      "finish_time": "2023-10-22 21:42"
+    },
+    {
+      "id": "FjnufRBcnn-rYJs3PQl29",
+      "title": "learn environment variable configuration files in Vue -> ENV",
+      "date_time": "2023-06-07 12:52",
+      "identifying": "3",
+      "usetime1": 0,
+      "usetime1_1": 0,
+      "finish_time": "2023-10-22 21:42"
+    },
+    {
+      "id": "qVuXaoKh42jzOKqyQA7eV",
+      "title": "学习一个富文本编辑器（阿里的或者是百度的），并整理文档和代码",
+      "date_time": "2023-06-07 15:41",
+      "identifying": "3",
+      "usetime1": 0,
+      "usetime1_1": 0,
+      "finish_time": "2023-10-22 21:43"
+    },
+    {
+      "id": "LkwdQ4ojnS7R0iy32PJ7w",
+      "title": "练习 uni-app 并整理",
+      "date_time": "2023-06-07 12:56",
+      "identifying": "3",
+      "usetime1": 0,
+      "usetime1_1": 0,
+      "finish_time": "2023-10-22 21:43"
+    },
+    {
+      "id": "FzrbbIJ8RBPAyE0-BrPd7",
+      "title": "重新复习 pink 老师关于移动端布局的知识",
+      "date_time": "2023-06-07 12:55",
+      "identifying": "3",
+      "usetime1": 0,
+      "usetime1_1": 0,
+      "finish_time": "2023-10-22 21:43"
+    }
+  ]
+}
